@@ -1,0 +1,8 @@
+title: Ryan Clark
+description: Mah Blarg - Moving here from static site hosting elsewhere
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
