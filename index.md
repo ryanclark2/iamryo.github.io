@@ -1,1 +1,1 @@
-This is to be my new home. Moving from ryanpclark.com (that'll be where this will live once I've moved that over as well). Nothing to see yet. 
+I am a software developer and a director of engineering. 
